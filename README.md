@@ -48,7 +48,7 @@ This is a **Java console-based interactive application** that offers 3 modules:
 
 ### 🔡 String Module:
 ![String Module](assets/img/img1.png)
----
+
 
 ## ▶️ How to Run
 1. Compile:
